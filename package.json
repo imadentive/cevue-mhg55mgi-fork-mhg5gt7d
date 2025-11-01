@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/imadentive.cevue-mhg55mgi-fork-mhg5gt7d",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2vBAyHVO5ouM35Yma2ze --open"
+  }
+}
